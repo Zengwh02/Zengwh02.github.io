@@ -13,6 +13,6 @@ I am a first-year master's student at the [School of Software](http://www.se.sjt
 
 I am fortunate to be advised by [Xiaodong Gu](https://guxd.github.io/) of the LLM Lab.
 
-Feel free to reach out to me via [Email](zengwh_cs@sjtu.edu.cn).
+Feel free to reach out to me via [Email](mailto:zengwh_cs@sjtu.edu.cn).
 
 
